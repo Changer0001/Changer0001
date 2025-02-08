@@ -1,4 +1,4 @@
-## Hi there, I'm Burak Yilmaz 👋
+## I'm Burak Yilmaz 👋
 
 ### 🚀 About Me
 
