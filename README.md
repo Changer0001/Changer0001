@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there, I'm Burak Yilmaz 👋
 
-<!--
-**Changer0001/Changer0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a passionate **IT Analyst** at Hyatt Hotels, managing three properties and ensuring seamless technology operations. I recently graduated with a **Bachelor's in Computer Science** from San Diego State University and a current student of **Master's in Computer Engineering** at SDSU.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Experience
+- **IT Analyst** at Hyatt Hotels (2025 - Present)
+- **IT Analyst** at SDSU Information Technology Division (2023 - 2024)
+- **Software & Data Engineering Intern** at Feels Music Messaging (2022 - 2023)
+
+
+### 📫 How to Reach Me
+- **Email:** yilmmazburak@gmail.com
+- **LinkedIn:** www.linkedin.com/in/burak-yilmaz-364087291
+
+Thanks for visiting my profile! 😊
