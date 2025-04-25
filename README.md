@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 
-I'm a passionate **IT Analyst** at Hyatt Hotels, managing three properties and ensuring seamless technology operations. I recently graduated with a **Bachelor's in Computer Science** from San Diego State University and a current student of **Master's in Computer Engineering** at SDSU.
+I'm an **IT Analyst** at Hyatt Hotels, managing three properties and ensuring seamless technology operations. I recently graduated with a **Bachelor's in Computer Science** from San Diego State University and a current student of **Master's in Computer Engineering** at SDSU.
 
 ### 💼 Experience
 - **IT Analyst** at Hyatt Hotels (2024 - Present)
