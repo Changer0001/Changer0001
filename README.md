@@ -1,17 +1,30 @@
-## I'm Burak Yilmaz 
+# 👋 Hi, I'm Burak Yilmaz
+**Software Engineer | Backend Developer | Cloud Enthusiast**
 
-###  About Me
+---
 
-I'm an **IT Analyst** at Hyatt Hotels, managing three properties and ensuring seamless technology operations. I recently graduated with a **Bachelor's in Computer Science** from San Diego State University and a current student of **Master's in Computer Engineering** at SDSU.
+## 📖 About Me  
+I’m a Software Engineer passionate about building scalable applications and solving complex technical challenges.  
+Currently pursuing a **Master’s in Computer Engineering** at **San Diego State University**, I bring a strong foundation in **software development**, **data engineering**, and **IT systems management**.
 
-###  Experience
-- **IT Analyst** at Hyatt Hotels (2024 - Present)
-- **IT Analyst** at SDSU Information Technology Division (2023 - 2024)
-- **Software & Data Engineering Intern** at Feels Music Messaging (2022 - 2023)
+---
 
+## 💻 Experience  
 
-###  How to Reach Me
-- **Email:** yilmmazburak@gmail.com
-- **LinkedIn:** www.linkedin.com/in/burak-yilmaz-364087291
+### **Software Engineer | Hyatt Hotels** *(2024 – Present)*  
+- Developing and maintaining software solutions to optimize operations across three properties.  
+ 
 
-Thanks for visiting my profile!
+### **Software & Data Engineering Intern | Feels Music Messaging** *(2022 – 2023)*  
+- Built backend services and data pipelines for a music messaging platform.  
+
+---
+
+## 🎓 Education  
+- **Master’s in Computer Engineering** – SDSU *(In Progress)*  
+- **Bachelor’s in Computer Science** – SDSU *(2024)*  
+
+---
+
+## 📫 How to Reach Me  
+- **Email:** [yilmmazburak@gmail.com](mailto:yilmmazburlinkedin.com/in/burak-yilmaz-364087291](https
